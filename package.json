@@ -1,0 +1,15 @@
+{
+  "name": "developer-fundamentals",
+  "version": "1.0.0",
+  "description": "Notes and scripts for Dev Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-sample-memes": "node scripts/generate-sample-memes.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.13.4"
+  }
+}

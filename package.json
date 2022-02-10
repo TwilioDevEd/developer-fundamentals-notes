@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate-sample-memes": "node scripts/generate-sample-memes.js"
+    "generate-sample-memes": "node scripts/generate-sample-memes.js",
+    "generate-nextjs-blog": "cd file-system/samples && npx create-next-app@latest -e blog-with-comment blog"
   },
   "author": "",
   "license": "ISC",

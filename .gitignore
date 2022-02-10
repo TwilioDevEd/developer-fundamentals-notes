@@ -146,5 +146,7 @@ dist
 
 # Generate these with `npm run generate-sample-memes` 
 file-system/samples/Downloads
+# Generate these with `npm run generate-nextjs-blog` 
+file-system/samples/blog
 
 .DS_Store

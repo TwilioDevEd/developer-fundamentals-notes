@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "open-yo-dawg-mac": "open -a \"google chrome\" file://`pwd`/file-system/assets/yo-dawg-folders.jpg",
     "generate-sample-memes": "node scripts/generate-sample-memes.js",
     "generate-sample-silverware": "node scripts/generate-silverware-joke.js",
     "generate-nextjs-blog": "cd file-system/samples && npx create-next-app@latest -e blog-with-comment blog"

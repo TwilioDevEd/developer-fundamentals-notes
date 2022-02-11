@@ -129,15 +129,17 @@ function choice(list) {
   return list[Math.floor(Math.random() * list.length)];
 }
 
-const memeFileNames = memeTitles.map(title => title
-  .toLowerCase()
-  .replace(/[^a-z\s]/g, "")
-  .split(" ")
-  .join("-") + `.${choice(extensions)}`);
-
+const memeFileNames = memeTitles.map(
+  (title) =>
+    title
+      .toLowerCase()
+      .replace(/[^a-z\s]/g, "")
+      .split(" ")
+      .join("-") + `.${choice(extensions)}`
+);
 
 async function generateMemeDownloadFolder() {
-  const pairs = memeFileNames.map(memeFileName => {
+  const pairs = memeFileNames.map((memeFileName) => {
     const ext = path.basename(memeFileName).split(".")[1];
     const src = ["file-system", "assets", `rickthumb.${ext}`];
     const dest = ["file-system", "samples", "Downloads", memeFileName];
@@ -147,5 +149,5 @@ async function generateMemeDownloadFolder() {
 }
 
 module.exports = {
-  generateMemeDownloadFolder
+  generateMemeDownloadFolder,
 };

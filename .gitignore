@@ -145,8 +145,6 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 # Generate these with `npm run generate-sample-memes` 
-file-system/samples/Downloads
-# Generate these with `npm run generate-nextjs-blog` 
-file-system/samples/blog
+file-system/samples/*
 
 .DS_Store

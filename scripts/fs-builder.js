@@ -38,8 +38,20 @@ async function massCopier(srcDestPairs) {
   return results;
 }
 
+async function massTextFileCreator(paths, text) {
+  const dirCount = buildRequiredDirs(paths);
+  const promises = paths.map(async (p) => {
+    const filePath = path.resolve(...p);
+    return fs.writeFileSync(filePath, text);
+  });
+  const results = await Promise.all(promises);
+  return results;
+}
+
+
 module.exports = {
   buildRequiredDirs,
-  massCopier
+  massCopier,
+  massTextFileCreator
 };
 

@@ -43,3 +43,8 @@ _Important_ In *nix based terminals (Mac/Linux), a forward slash `/` separates d
 - Create a new Folder called `Older Files`
 - Move any downloaded file that you no longer want into `Older Files`
 - Delete files you no longer want
+
+### From the Terminal: Remove that directory
+
+- Change directories into `Downloads/Older Files`
+- Remove a file using `rm`

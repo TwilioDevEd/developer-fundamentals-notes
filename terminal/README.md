@@ -53,4 +53,13 @@ espeak "Check this out. Cheeseburger"
 
 ---
 
-Try to find a word that your text-to-speech engine has a hard time pronouncing. Can you make it work by phoenitically spelling things out?
+Pass this to your text to speech engine. What does it sound like it says?
+
+```
+"eye ham not a hah qur, eye ham lure ning sum duh vehlop urrr fun da mint alls fur uhm my furr ends at twill e oh"
+```
+
+---
+
+Try to find a word that your text-to-speech engine has a hard time pronouncing. Can you make it work by phonetically spelling things out? Hint new slang seems to always stump this.
+

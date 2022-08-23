@@ -8,14 +8,14 @@ This is an ever-growing repository of content tackling fundamental education for
 
 [![Watch the video on TwilioDevs YouTube channel](https://img.youtube.com/vi/2zLQwOiIac8/maxresdefault.jpg)](https://youtu.be/2zLQwOiIac8)
 
-
+- [Terminal](./terminal/)
 
 ## Coming Soon!
 
-- [Terminal](./terminal/)
 - [Shells](./shells)
 - System Path
 - Environment Variables
+- Errors
 
 ## Requests?
 

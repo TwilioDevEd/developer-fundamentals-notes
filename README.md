@@ -10,7 +10,7 @@ This is an ever-growing repository of content tackling fundamental education for
 
 - [Terminal](./terminal/)
 
-[![Watch the Terminal video on TwilioDevs YouTube channel](https://img.youtube.com/lZ7Kix9bjPI/maxresdefault.jpg)](https://youtu.be/lZ7Kix9bjPI)
+[![Watch the Terminal video on TwilioDevs YouTube channel](https://img.youtube.com/vi/lZ7Kix9bjPI/maxresdefault.jpg)](https://youtu.be/lZ7Kix9bjPI)
 
 
 ## Coming Soon!

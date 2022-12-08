@@ -13,9 +13,10 @@ This is an ever-growing repository of content tackling fundamental education for
 [![Watch the Terminal video on TwilioDevs YouTube channel](https://img.youtube.com/vi/lZ7Kix9bjPI/maxresdefault.jpg)](https://youtu.be/lZ7Kix9bjPI)
 
 
+- [Shells](./shells)
+
 ## Coming Soon!
 
-- [Shells](./shells)
 - System Path
 - Environment Variables
 - Errors

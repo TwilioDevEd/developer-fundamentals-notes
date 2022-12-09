@@ -8,3 +8,37 @@ Explore the [examples](./examples/README.md)
 
 - [Comparsion of Shells - wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 - [Scripting Languages - wikipedia](https://en.wikipedia.org/wiki/Shell_script)
+
+## Practice
+
+### Navigate and create directory structures
+
+From your home directory, create a new directory structure of `scratch > first-folder > second-folder` (Check out [File Systems](../file-system/README.md) for more information)
+
+### Mac / Linux
+
+```bash
+mkdir -p scratch/first-folder/second-folder
+```
+
+### Windows
+
+```bash
+mkdir scratch\first-folder\second-folder
+```
+
+### Tab Completion
+
+With the directory structure built, practice using tab completion to navigate through to the `second-folder`
+
+```bash
+cd scr [TAB]
+```
+
+### Command History
+
+Open a new terminal. Use command history (typically the up arrow) to navigate to the `second-folder`
+
+## Learning Resources
+
+- **TwilioQuest**: Head over to the _Tower of Infinite Knowledge_ in [TwilioQuest](https://twilio.com/quest?utm_source=gh&utm_medium=referral&utm_campaign=developer-fundamentals)

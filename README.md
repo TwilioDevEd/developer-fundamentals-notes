@@ -15,6 +15,8 @@ This is an ever-growing repository of content tackling fundamental education for
 
 - [Shells](./shells)
 
+[![Watch the Shells video on TwilioDevs YouTube channel](https://img.youtube.com/vi/fhv2dX0axeY/maxresdefault.jpg)](https://youtu.be/fhv2dX0axeY)
+
 ## Coming Soon!
 
 - System Path

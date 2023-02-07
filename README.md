@@ -17,10 +17,14 @@ This is an ever-growing repository of content tackling fundamental education for
 
 [![Watch the Shells video on TwilioDevs YouTube channel](https://img.youtube.com/vi/fhv2dX0axeY/maxresdefault.jpg)](https://youtu.be/fhv2dX0axeY)
 
+- [Path](./path)
+
+[![Watch the Path video on TwilioDevs YouTube channel](https://img.youtube.com/vi/43zdpmEu4lE/maxresdefault.jpg)](https://youtu.be/43zdpmEu4lE)
+
+
 ## Coming Soon!
 
 - System Path
-- Environment Variables
 - Errors
 
 ## Requests?

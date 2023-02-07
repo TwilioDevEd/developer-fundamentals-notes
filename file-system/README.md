@@ -1,5 +1,7 @@
 # File Systems
 
+[![Watch the File System video on TwilioDevs YouTube channel](https://img.youtube.com/vi/2zLQwOiIac8/maxresdefault.jpg)](https://youtu.be/2zLQwOiIac8)
+
 ## Terminal Commands
 
 ### List Files

@@ -1,5 +1,7 @@
 # Shells
 
+[![Watch the Shells video on TwilioDevs YouTube channel](https://img.youtube.com/vi/fhv2dX0axeY/maxresdefault.jpg)](https://youtu.be/fhv2dX0axeY)
+
 Shells provide a protective wrapper around your Operating System. These help to manipulate your [File System](../file-system/README.md), start and stop processes, and other lower level things. You access them through your [Terminal](../terminal/README.md)
 
 Explore the [examples](./examples/README.md)

@@ -1,5 +1,7 @@
 # Terminal
 
+[![Watch the Terminal video on TwilioDevs YouTube channel](https://img.youtube.com/vi/lZ7Kix9bjPI/maxresdefault.jpg)](https://youtu.be/lZ7Kix9bjPI)
+
 ## Opening your default Terminal
 
 ### Mac

@@ -24,7 +24,6 @@ This is an ever-growing repository of content tackling fundamental education for
 
 ## Coming Soon!
 
-- System Path
 - Errors
 
 ## Requests?

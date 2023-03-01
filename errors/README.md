@@ -5,3 +5,4 @@
 ## Resources
 
 - 📚 [How to ask better questions - StackOverflow](https://stackoverflow.com/help/how-to-ask)
+- 📚 [Examples of Good Error Messages](https://uxwritinghub.com/error-message-examples/)

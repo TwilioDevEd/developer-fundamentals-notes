@@ -21,10 +21,9 @@ This is an ever-growing repository of content tackling fundamental education for
 
 [![Watch the Path video on TwilioDevs YouTube channel](https://img.youtube.com/vi/43zdpmEu4lE/maxresdefault.jpg)](https://youtu.be/43zdpmEu4lE)
 
+- [Errors](./errors)
 
-## Coming Soon!
-
-- Errors
+[![Watch the Errors video on TwilioDevs YouTube channel](https://img.youtube.com/vi/IzuY7whSAJM/maxresdefault.jpg)](https://youtu.be/IzuY7whSAJM)
 
 ## Requests?
 

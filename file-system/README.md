@@ -65,4 +65,4 @@ cp myfile.txt myfile2.txt
 
 ## Learning Resources
 
-- **TwilioQuest**: The first floor of the _Tower of Infinite Knowledge_ in [TwilioQuest](https://twilio.com/quest?utm_source=gh&utm_medium=referral&utm_campaign=developer-fundamentals) focusses on File Systems. Check it out! (This video even plays there on a VCR! 📼)
+- **TerminalQuest**: The first floor of the _Tower of Infinite Knowledge_ in [TerminalQuest](https://terminal.quest?utm_source=gh&utm_medium=referral&utm_campaign=developer-fundamentals) focusses on File Systems. Check it out! (This video even plays there on a VCR! 📼)

@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
     res.type("html");
     res.send(`
       <h1>You've Got This!</h1>
-      <p>You should go check out <a href="https://twilio.com/quest">TwilioQuest</a></p>
+      <p>You should go check out <a href="https://terminal.quest">TerminalQuest</a></p>
     `);
 })
 

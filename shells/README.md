@@ -43,4 +43,4 @@ Open a new terminal. Use command history (typically the up arrow) to navigate to
 
 ## Learning Resources
 
-- **TwilioQuest**: Head over to the _Tower of Infinite Knowledge_ in [TwilioQuest](https://twilio.com/quest?utm_source=gh&utm_medium=referral&utm_campaign=developer-fundamentals)
+- **TerminalQuest**: Head over to the _Tower of Infinite Knowledge_ in [TerminalQuest](https://terminal.quest?utm_source=gh&utm_medium=referral&utm_campaign=developer-fundamentals)

@@ -10,6 +10,6 @@
   "author": "Craig Dennis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.21.0"
   }
 }

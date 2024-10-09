@@ -16,6 +16,6 @@
     "jshint": "^2.13.4"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.21.1"
   }
 }
